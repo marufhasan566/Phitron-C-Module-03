@@ -7,7 +7,7 @@ int main()
 
     float triangle = (0.5*A*C);
     float circle = (pi*C*C);
-    float trapezium = ((0.5*(A+B))*C);
+    float trapezium = (0.5*(A+B)*C);
     float square = (B*B);
     float rectangle = (A*B);
 

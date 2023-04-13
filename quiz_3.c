@@ -47,18 +47,18 @@
 //     return 0;
 // }
 
-//{Normal}
-// #include<stdio.h>
-// int main()
-// {
-//     int n;
-//     printf("Enter the value of n = ");
-//     scanf("%d",&n);
-//     for(int i=0;i<n;i++){
-//         printf("%d\n",i);
-//     }
-//     return 0;
-// }
+// {Normal}
+#include<stdio.h>
+int main()
+{
+    int n;
+    printf("Enter the value of n = ");
+    scanf("%d",&n);
+    for(int i=0;i<n;i++){
+        printf("%d\n",i);
+    }
+    return 0;
+}
 
 //{Reverse}
 // #include<stdio.h>
@@ -74,12 +74,12 @@
 // }
 
 
-#include <stdio.h>
-int main()
-{
-    int i = 0;
-    while (i = 0) {
-        printf("Hello\n");
-    }
-    return 0;
-}
+// #include <stdio.h>
+// int main()
+// {
+//     int i = 0;
+//     while (i = 0) {
+//         printf("Hello\n");
+//     }
+//     return 0;
+// }
